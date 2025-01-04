@@ -13,7 +13,7 @@ class Queue {
     }
 
   Queue(int maxSize) {
-    ( * this).maxSize = maxSize;
+    this->maxSize = maxSize;
     arr = new int[maxSize];
     start = -1;
     end = -1;
