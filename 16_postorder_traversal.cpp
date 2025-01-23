@@ -1,12 +1,12 @@
 /*
-void inorder(node)
+void postorder(node)
 {
     if(node == NULL)
     {
         return;
     }
-    inorder(node->left);
+    postorder(node->left);
+    postorder(node->right);
     cout<<node->data;
-    inorder(node->right);
 }
 */
