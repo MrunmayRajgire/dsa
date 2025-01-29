@@ -5,6 +5,7 @@
 
 /*
 push root, num=1
+while taking out an element in stack
 if(num==1)
 {
     preorder
