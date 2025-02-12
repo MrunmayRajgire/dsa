@@ -7,6 +7,4 @@ right subtree - bst
   we can also store (number,freq) in one node
 
 # Generally in BST, height will be log(n)[base=2]
-
-
 */
